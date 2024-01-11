@@ -2,7 +2,7 @@ Link to unlisted YouTube video:
 https://youtu.be/AFwG3dOe5JM
 
 Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/d/1xILLUH11NFkBY6udgCMCu5hNQr3BQwh9Z9hmltFC2B4/edit?usp=sharing
+https://docs.google.com/presentation/d/1v_ev9x3-HNqQYUXIP1Ra1SzM-GT7uM5w/edit?usp=sharing&ouid=104211461077421515839&rtpof=true&sd=true
 
 Paper title:
 A State-of-Art Review on Applications of Machine Learning Based Approaches on DSM Programs 
